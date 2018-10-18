@@ -1,10 +1,8 @@
 body{
     font-family: "Arial";
     background-color: skyblue;
-<<<<<<< HEAD
-=======
-    color: white;
->>>>>>> new-design
+    color: salmon;
+    font-weight: 900;
 }
 
 .clearfix{
